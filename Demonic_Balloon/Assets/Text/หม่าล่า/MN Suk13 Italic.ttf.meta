@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 281ddb4792c72c14683999e9b9342d06
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MN Suk13
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 436f32f64bd04484d9fa47d0340d13ad, type: 3}
+  - {fileID: 12800000, guid: 41e458212d2a09a489400567c1401150, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
